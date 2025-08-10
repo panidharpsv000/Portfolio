@@ -4,7 +4,7 @@ A responsive and modern personal portfolio website built with **React** and **Ta
 Showcases my skills, projects, and contact details in a clean and interactive design.
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-portfolio-link.vercel.app)
+[View Portfolio]([https://your-portfolio-link.vercel.app](https://portfolio-nine-sand-rcqd2j8tmk.vercel.app/))
 
 ---
 
@@ -23,7 +23,7 @@ Showcases my skills, projects, and contact details in a clean and interactive de
 - **JavaScript (ES6+)**
 - **React.js**
 - **TailwindCSS**
-- **Deployment**: [Vercel](https://vercel.com)
+- **Deployment**: [Vercel]([https://vercel.com](https://portfolio-nine-sand-rcqd2j8tmk.vercel.app/))
 
 ---
 
